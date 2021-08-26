@@ -1,5 +1,5 @@
 '''
-A script which asks the user for their unit preferance then determines the distance between Tallinn and Helsinki
+A script which asks the user for their unit preference then determines the distance between Tallinn and Helsinki
 '''
 
 from geopy import distance
